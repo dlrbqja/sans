@@ -1,6 +1,6 @@
 import express from "express";
 import memosRouter from "./routes/memos.js";
-import 'dsmhs-screener';
+// import 'dsmhs-screener';
 
 import path from "path";
 import { fileURLToPath } from "url";

@@ -155,7 +155,7 @@ if (action === 'pin') await togglePin(id);
 });
 
 async function deleteMemo(id) {
-  if (!confirm('정말 삭제할까요?')) return;
+  if (!confirm('정말 삭제할까요!??!!!!?!')) return;
 
   try {
     setStatus('삭제 중...');
